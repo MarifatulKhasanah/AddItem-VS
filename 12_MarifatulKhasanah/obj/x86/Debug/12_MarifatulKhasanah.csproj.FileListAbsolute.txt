@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\bin\Debug\mydb.accdb
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\bin\Debug\12_MarifatulKhasanah.exe.config
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\bin\Debug\12_MarifatulKhasanah.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\bin\Debug\12_MarifatulKhasanah.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\_12_MarifatulKhasanah.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\_12_MarifatulKhasanah.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\12_MarifatulKhasanah.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\12_MarifatulKhasanah.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\12_MarifatulKhasanah.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\12_MarifatulKhasanah\12_MarifatulKhasanah\obj\x86\Debug\12_MarifatulKhasanah.csprojResolveAssemblyReference.cache
